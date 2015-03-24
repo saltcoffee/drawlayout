@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drawlayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_drawlayout">Open Drawlayout</string>
+    <string name="close_drawlayout">Close Drawlayout</string>
+</resources>
